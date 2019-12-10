@@ -1,2 +1,2 @@
 # MDAN-GE
-Ein Demonstrationscode für domänenübergreifenden neuronale Netzwerke
+Ein Demonstrationscode für domänenübergreifende neuronale Netze
