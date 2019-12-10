@@ -1,2 +1,2 @@
 # MDAN-GE
-MDAN for GE Turbine Data
+Ein Demonstrationscode für domänenübergreifenden neuronale Netzwerke
