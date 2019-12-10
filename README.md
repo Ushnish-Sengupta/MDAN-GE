@@ -1,2 +1,2 @@
 # MDAN-GE
-Ein Demonstrationscode für domänenübergreifende neuronale Netze
+Ein Demonstrationscode mit Gausche Klecksen für domänenübergreifende neuronale Netze
